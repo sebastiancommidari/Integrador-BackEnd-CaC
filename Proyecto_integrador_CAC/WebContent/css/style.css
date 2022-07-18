@@ -1,0 +1,34 @@
+@charset "UTF-8";
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+	background-color: #00411f;
+	background-image: url(https://clubabanfield.org/inicio/fondo-web/wall1.jpg);
+	color:white;
+}
+
+#img{
+	display: inline-block;
+	margin-top: 20px;
+	margin-left: 40px;
+	margin-right: 40px;
+	
+}
+
+#title{
+	text-align:right;
+	color: white;
+	float: right;
+	margin-top: 60px;
+	margin-right: 80px;
+}
+
+
+.btn{
+	border-color: white;
+}
+
